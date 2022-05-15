@@ -1,0 +1,37 @@
+
+<A>THE LENGTH OF STRING IS 35
+<B>THE REVERSED STRING IS  egaugnal evitisnes esac a si nohtyP
+<E>THE INDEX OF SUBSTRING a is  10
+<F>THE ORIGINAL STRING AFTER REMOVING WHITESPACES IS Pythonisacasesensitivelanguage
+
+
+ENTER YOUR NAME PRATIMAN SINGH RATHORE
+ENTER YOUR SID 20102066
+ENTER YOUR DEPARTMENT CIVIL
+ENTER YOUR CGPA 7.2
+Hey  PRATIMAN SINGH RATHORE, Here!
+My SID is 20102066
+I am from  PRATIMAN SINGH RATHORE and my CGPA is 7.2000
+
+
+a.  8
+b.  58
+c.  50
+Left shift both a and b with 2 bits respectively are : 224 40
+Right shift a with 2 bits and b with 4 bits respectively are :  14 0
+
+
+Enter first number: 4
+Enter second number: 5
+Enter third number: 6
+THE LARGEST NUMBER IS  6
+
+
+ENTER A STRING 
+No
+
+
+ENTER FIRST SIDE OF TRIANGLE 4
+ENTER SECOND SIDE OF TRIANGLE 5
+ENTER THIRD SIDE OF TRIANGLE 6
+Yes
