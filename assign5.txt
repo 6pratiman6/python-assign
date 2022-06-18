@@ -1,0 +1,71 @@
+#ques1#
+
+
+str = "JavaTpoint" #  string variable  
+print ("The original string  is : ",str)   
+reverse_String = ""  # Empty String  
+count = len(str) # Find length of a string and save in count variable  
+while count > 0:   
+    reverse_String += str[ count - 1 ] # save the value of str[count-1] in reverseString  
+    count = count - 1 # decrement index  
+print ("The reversed string using a while loop is : ",reverse_String)# reversed string 
+
+
+#ques4#
+
+n=5;
+for i in range(n):
+    for j in range(i):
+        print ('* ', end="")
+    print('')
+
+for i in range(n,0,-1):
+    for j in range(i):
+        print('* ', end="")
+    print('')
+
+
+#ques3#
+
+
+import math
+a=int(input("Enter first side: "))
+b=int(input("Enter second side: "))
+c=int(input("Enter third side: "))
+s=(a+b+c)/2
+area=math.sqrt(s*(s-a)*(s-b)*(s-c))
+print("Area of the triangle is: ",round(area,2))
+
+
+#ques6#
+
+# First, we will take the input:  
+lower_value = int(input ("Please, Enter the Lowest Range Value: "))  
+upper_value = int(input ("Please, Enter the Upper Range Value: "))  
+  
+print ("The Prime Numbers in the range are: ")  
+for number in range (lower_value, upper_value + 1):  
+    if number > 1:  
+        for i in range (2, number):  
+            if (number % i) == 0:  
+                break  
+        else:  
+            print (number)            
+
+#ques9#      
+
+def word_count(str):
+    counts = dict()
+    words = str.split()
+
+    for word in words:
+        if word in counts:
+            counts[word] += 1
+        else:
+            counts[word] = 1
+
+    return counts
+
+print( word_count('the quick brown fox jumps over the lazy dog.'))
+
+#ques                                                                                                    
