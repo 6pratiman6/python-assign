@@ -1,0 +1,2 @@
+Enter the sequence of parantheses : (){}[]
+(){}[] - is balanced

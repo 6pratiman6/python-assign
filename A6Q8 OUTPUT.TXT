@@ -1,0 +1,9 @@
+Enter number of elements : 6
+14
+-10
+-4
+440
+-399
+-42
+14 -10 -4
+None

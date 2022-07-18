@@ -1,0 +1,2 @@
+Enter a String: I like to play games
+No 'I like to play games' is not a panagram

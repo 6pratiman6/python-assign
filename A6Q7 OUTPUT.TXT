@@ -1,0 +1,8 @@
+True
+False
+True
+False
+
+Check whether the said classes are subclasses of the built-in object class or not.
+True
+True

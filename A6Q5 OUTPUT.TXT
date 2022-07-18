@@ -1,0 +1,2 @@
+Enter a hyphen separated sentence: hobby-singing
+hobby-singing

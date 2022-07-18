@@ -1,0 +1,2 @@
+Enter a String: Madam
+Madam is not a palindrome
