@@ -1,0 +1,9 @@
+Enter the no of rows: 8
+A
+BC
+DEF
+GHIJ
+KLMNO
+PQRSTU
+VWXYZAB
+CDEFGHIJ

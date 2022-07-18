@@ -1,0 +1,2 @@
+Enter a string :MY NAME IS GAZAL
+Reversed string is LAZAG SI EMAN YM

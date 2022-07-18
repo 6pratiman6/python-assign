@@ -1,0 +1,2 @@
+Enter a string: I LIKE TO PLAY GAMES
+{'I': 1, 'LIKE': 1, 'TO': 1, 'PLAY': 1, 'GAMES': 1}

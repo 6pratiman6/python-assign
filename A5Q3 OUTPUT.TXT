@@ -1,0 +1,4 @@
+Enter first side of the triangle: 10
+Enter second side of the triangle: 15
+Enter third side of the triangle: 20
+Area of the triangle is 72.61843774138907

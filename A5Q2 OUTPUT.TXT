@@ -1,0 +1,11 @@
+Enter the initial number of range :
+7
+
+Enter the last(ending) number of range :
+9
+
+Enter the divisor for entered range :
+2
+
+Numbers divisile in the range are :
+1 ) 8

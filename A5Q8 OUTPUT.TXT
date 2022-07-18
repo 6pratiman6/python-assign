@@ -1,0 +1,37 @@
+Enter 1th number: 2
+Enter 2th number: 5
+Enter 3th number: 7
+Enter 4th number: 9
+Enter 5th number: 10
+Enter 6th number: 15
+Enter 7th number: 17
+Enter 8th number: 10
+Enter 9th number: 18
+Enter 10th number: 17
+[2, 5, 7, 9, 10, 15, 17, 10, 18, 17]
+Positive numbers are: 
+2
+5
+7
+9
+10
+15
+17
+10
+18
+17
+Negative numbers are: 
+Odd numbers are: 
+5
+7
+9
+15
+17
+17
+Even numbers are: 
+2
+10
+10
+18
+No of times each number occurs in the List:
+{2: 1, 5: 1, 7: 1, 9: 1, 10: 2, 15: 1, 17: 2, 18: 1}
